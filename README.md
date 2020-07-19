@@ -1,6 +1,6 @@
 # regform-task
 
-https://github.com/Grij/regform-task/issues/1#issue-661114752
+![reg-task](https://user-images.githubusercontent.com/52110638/87886798-6af27a80-ca28-11ea-9d05-541aa3479d0f.gif)
 
 ## Project setup
 ```
